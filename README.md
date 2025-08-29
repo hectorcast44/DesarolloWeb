@@ -11,7 +11,7 @@ El objetivo de este proyecto es centralizar y organizar el código, documentaci�
 - **Ruben Alejandro Perez Zumarraga**
   <br><img src="Assets/Img/ImagenRuben.jpg" alt="Foto de Rubén" width="200"/>
   - **Cristian De Martino Ricci**
-  <br><img src="Assets/Img/icon.jpg" alt="Foto de Rubén" width="200"/>
+  <br><img src="Assets/Img/iconGit.jpg" alt="Foto de Rubén" width="200"/>
 
 ---
 
