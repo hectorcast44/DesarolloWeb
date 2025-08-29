@@ -10,6 +10,8 @@ El objetivo de este proyecto es centralizar y organizar el código, documentaci�
   <br><img src="Assets/Img/IMG_6630.jpg" alt="Foto de Héctor" width="200"/>
 - **Ruben Alejandro Perez Zumarraga**
   <br><img src="Assets/Img/ImagenRuben.jpg" alt="Foto de Rubén" width="200"/>
+  - **Cristian De Martino Ricci**
+  <br><img src="Assets/Img/icon.jpg" alt="Foto de Rubén" width="200"/>
 
 ---
 
